@@ -65,7 +65,7 @@ For additional details see [OAuth Client Verification][verify].
 [Data Studio]: https://datastudio.google.com
 [Community Connector]: https://developers.google.com/datastudio/connector
 [JSON]: https://www.json.org/
-[screenshot]: json-connect.png
+[screenshot]: assets/json-api-connect.png
 [Use a Community Connector]: https://developers.google.com/datastudio/connector/use
 [revoke access]: https://support.google.com/datastudio/answer/9053467
 [connector list]: https://datastudio.google.com/c/datasources/create
