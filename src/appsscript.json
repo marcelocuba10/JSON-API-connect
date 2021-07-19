@@ -1,0 +1,15 @@
+{
+  "dataStudio": {
+    "name": "JSON Connect ApiCode",
+    "logoUrl": "https://www.conectacode.com.py/wp-content/uploads/2021/07/ApiCode-icon.png",
+    "company": "ConectaCode",
+    "companyUrl": "https://conectacode.com.py/",
+    "addonUrl": "https://github.com/googledatastudio/community-connectors/blob/master/JSON-connect/README.md",
+    "supportUrl": "https://github.com/googledatastudio/community-connectors/issues/new?title=JSON%20Connect%20Connector%20Issue",
+    "shortDescription": "Conecte seus dados JSON via URL.",
+    "description": "Conector do Google Data Studio para obter dados de qualquer fonte de dados JSON via URL. Use o cache para acelerar a renderização.",
+    "sources": ["CUSTOM_JSON"],
+    "authType": ["NONE"],
+    "feeType": ["FREE"]
+  }
+}
